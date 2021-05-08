@@ -6,12 +6,12 @@ int main() {
 	 
     scanf("%*s%d",&d1);
     scanf("%d%*s",&h1);
-	scanf("%d%*s",&m1);
-	scanf("%d",&s1);
-	scanf("%*s%d",&d2);
+    scanf("%d%*s",&m1);
+    scanf("%d",&s1);
+    scanf("%*s%d",&d2);
     scanf("%d%*s",&h2);
-	scanf("%d%*s",&m2);
-	scanf("%d",&s2);
+    scanf("%d%*s",&m2);
+    scanf("%d",&s2);
     
     Z = s2 - s1;
     Y = m2 - m1;

@@ -8,8 +8,8 @@ int main() {
     scanf("%d",&N);
     for(i=0; i<N; i++){
     	scanf("%f", &a);
-  		scanf("%f", &b);
-  		scanf("%f", &c);
+  	scanf("%f", &b);
+  	scanf("%f", &c);
     	avg = (a*2 + b*3 + c*5)/10;
     	printf("%.1f\n", avg);
 	}
